@@ -9,10 +9,15 @@
   📫 How to reach me: <strong>yusifdev1@gmail.com</strong>
 </p>
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- Add your social media links here -->
+<a href="https://twitter.com/eusif qasim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eusif qasim" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yusif qasim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusif qasim" height="30" width="40" /></a>
+<a href="https://kaggle.com/yusif qasim ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yusif qasim ali" height="30" width="40" /></a>
+<a href="https://fb.com/yousif qasim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yousif qasim" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
