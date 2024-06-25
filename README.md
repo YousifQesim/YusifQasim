@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://twitter.com/EusifQasim?t=XtH8suqlfeWm5c4Q3ci9kA&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eusif qasim" height="30" width="40" /></a>
 <a href="https://iq.linkedin.com/in/yusif-qasim-208473232?trk=people-guest_people_search-card" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusif qasim" height="30" width="40" /></a>
-<a href="https://kaggle.com/yusif qasim ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yusif qasim ali" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/yusifqasimali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yusif qasim ali" height="30" width="40" /></a>
 <a href="https://fb.com/yousif qasim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yousif qasim" height="30" width="40" /></a>
 </p>
 
